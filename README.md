@@ -1,7 +1,7 @@
 # poka-yoke
 Poka-yoke: mistake proofing via functional programming
 
-Slides snd code as presented at [FunctionalConf](https://functionalconf.com) in Bangaluru, India on Saturday, November 18, 2017
+Slides and code as presented at [FunctionalConf](https://functionalconf.com) in Bangaluru, India on Saturday, November 18, 2017
 
 ## Abstract
 "Poka yoke” (po-kah yo-kay) is a term from Japanese manufacturing that means "mistake proofing". 

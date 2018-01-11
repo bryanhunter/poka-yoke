@@ -1,7 +1,7 @@
 # poka-yoke
 Poka-yoke: mistake proofing via functional programming
 
-Slides snd code. Each version is in a branch named after the conference or event where it was 
+Slides and code. Each version is in a branch named after the conference or event where it was 
 presented (e.g. "fnconf17")
 
 ## Abstract
